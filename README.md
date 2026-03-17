@@ -16,8 +16,8 @@ I spend my days coding in **C#**, exploring algorithms, designing clean architec
 
 I enjoy collaborating with others, experimenting with ideas, and constantly improving.
 
-I worked on the game:  
-https://store.steampowered.com/app/2657900/For_Sale/
+I worked on the game [For Sale](https://store.steampowered.com/app/2657900/For_Sale/) 
+
 
 I'm always open to new connections.  
 Feel free to connect with me on LinkedIn.
