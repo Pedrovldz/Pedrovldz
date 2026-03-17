@@ -26,28 +26,17 @@ Feel free to connect with me on LinkedIn.
 
 # Rapidfire
 
-<table>
-<tr>
-<td width="50%">
+<p align="left">
 
-- I’m currently studying **.NET Framework**  
-- I’m currently **open to work**  
-- Fun fact: I love **One Piece**
+<b>• I’m currently studying:</b> .NET Framework<br>
+<b>• I’m currently:</b> open to work<br>
+<b>• Fun fact:</b> I love One Piece
 
-</td>
+</p>
 
-<td width="50%">
-
-<div align="center">
-
+<p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1MDR6aTk0NGo1bmc2bmh2ZjgzYWsyemdkZThweHVhNzl3YXdkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQoRcPz7qNlmXhNRAq/giphy.gif" width="100%" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
+</p>
 ---
 
 # Languages and Tools
