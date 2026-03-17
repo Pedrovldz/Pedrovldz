@@ -73,9 +73,9 @@ Feel free to connect with me on LinkedIn.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pedrovldz&show_icons=true&count_private=true&hide_border=true&theme=black" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pedrovldz&show_icons=true&count_private=true&hide_border=true&theme=transparent" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrovldz&layout=compact&hide_border=true&theme=black" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrovldz&layout=compact&hide_border=true&theme=transparent" height="170"/>
 
 </p>
 
