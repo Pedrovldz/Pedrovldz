@@ -31,9 +31,9 @@ Feel free to connect with me on LinkedIn.
 <tr>
   <td style="border: none; width: 50%; vertical-align: top;">
     <p>
-      <b>• I’m currently studying:</b> .NET Framework<br>
-      <b>• I’m currently:</b> open to work<br>
-      <b>• Fun fact:</b> I love One Piece
+      • I’m currently studying .NET Framework<br>
+      • I’m currently open to work<br>
+      • Fun fact: I <b>love</b> One Piece 
     </p>
   </td>
 
