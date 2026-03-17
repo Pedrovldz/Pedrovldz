@@ -54,51 +54,51 @@ Feel free to connect with me on LinkedIn.
 
 <p align="center">
 
-<a href="https://reactjs.org/" target="_blank">
+<a href="https://reactjs.org/" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"/>
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
+<a href="https://www.w3schools.com/css/" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+<a href="https://en.wikipedia.org/wiki/HTML5" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40"/>
 </a>
 
-<a href="https://www.gnu.org/software/bash/" target="_blank">
+<a href="https://www.gnu.org/software/bash/" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="40"/>
 </a>
 
-<a href="https://github.com/" target="_blank">
+<a href="https://github.com/" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40"/>
 </a>
 
-<a href="https://nodejs.org/" target="_blank">
+<a href="https://nodejs.org/" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40"/>
 </a>
 
-<a href="https://www.python.org/" target="_blank">
+<a href="https://www.python.org/" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40"/>
 </a>
 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="40"/>
 </a>
 
-<a href="https://unity.com/" target="_blank">
+<a href="https://unity.com/" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/unity.png" height="40"/>
 </a>
 
-<a href="https://www.javascript.com/" target="_blank">
+<a href="https://www.javascript.com/" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/>
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://www.mysql.com/" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/>
 </a>
 
-<a href="https://dotnet.microsoft.com/download" target="_blank">
+<a href="https://dotnet.microsoft.com/download" style="text-decoration:none;">
 <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="40"/>
 </a>
 
