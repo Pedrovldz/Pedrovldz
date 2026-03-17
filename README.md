@@ -82,6 +82,3 @@ I'm always open to new connections. Feel free to connect with me on LinkedIn. Le
 ![Profile views counter](https://komarev.com/ghpvc/?username=Pedrovldz&&style=flat-square)  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
