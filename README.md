@@ -26,18 +26,21 @@ Feel free to connect with me on LinkedIn.
 
 # Rapidfire
 
-<p align="left">
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-<b>• I’m currently studying:</b> .NET Framework<br>
-<b>• I’m currently:</b> open to work<br>
-<b>• Fun fact:</b> I love One Piece
+  <div style="flex: 1; min-width: 250px;">
+    <p>
+      <b>• I’m currently studying:</b> .NET Framework<br>
+      <b>• I’m currently:</b> open to work<br>
+      <b>• Fun fact:</b> I love One Piece
+    </p>
+  </div>
 
-</p>
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1MDR6aTk0NGo1bmc2bmh2ZjgzYWsyemdkZThweHVhNzl3YXdkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQoRcPz7qNlmXhNRAq/giphy.gif" style="max-width: 100%; height: 150px; object-fit: cover;" />
+  </div>
 
-<p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY1MDR6aTk0NGo1bmc2bmh2ZjgzYWsyemdkZThweHVhNzl3YXdkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQoRcPz7qNlmXhNRAq/giphy.gif" width="100%" />
-</p>
----
+</div>
 
 # Languages and Tools
 
