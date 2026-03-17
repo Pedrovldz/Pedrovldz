@@ -58,12 +58,12 @@ Feel free to connect with me on LinkedIn.
 <img src="https://profilinator.rishav.dev/skills-assets/unity.png" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40"/>
 
 </div>
 
@@ -73,9 +73,9 @@ Feel free to connect with me on LinkedIn.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pedrovldz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pedrovldz&show_icons=true&count_private=true&hide_border=true&theme=black" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrovldz&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrovldz&layout=compact&hide_border=true&theme=black" height="170"/>
 
 </p>
 
