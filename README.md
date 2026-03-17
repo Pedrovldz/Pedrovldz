@@ -54,18 +54,18 @@ Feel free to connect with me on LinkedIn.
 
 <p align="center">
 
+
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/unity.png" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/unity.png" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40"/>
 
 </p>
 
