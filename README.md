@@ -32,7 +32,6 @@ Feel free to connect with me on LinkedIn.
   <td style="border: none; width: 50%; vertical-align: top;">
     <p>
       • I’m currently studying C++/Unreal<br>
-      • I’m currently open to work<br>
       • Fun fact: I <b>love</b> One Piece 
     </p>
   </td>
