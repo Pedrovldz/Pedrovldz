@@ -11,8 +11,8 @@
 
 ### Glad to see you here!  
 
-I’m a game developer who loves building systems that just work.  
-I spend my days coding in **C#**, exploring algorithms, designing clean architectures, and learning new ways to solve problems.
+I’m a game developer.  
+I spend my days making games (who would imagine?), playing games, and reading manga.
 
 I enjoy collaborating with others, experimenting with ideas, and constantly improving.
 
