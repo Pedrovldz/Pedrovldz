@@ -52,8 +52,8 @@ Feel free to connect with me on LinkedIn.
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/unity.png" height="40"/>
-<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" height="40"/>
+<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"/>
